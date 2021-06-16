@@ -1,0 +1,84 @@
+:doctype: book
+
+= Laporan Permintaan dan Layanan Teknologi Informasi
+Priyanto Tamami <tamami.oka@gmail.com>
+Badan Pendapatan Daerah Kabupaten Brebes
+
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bagian
+:figure-caption: Gambar 
+:icons: font
+:sectnums:
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+== Dokumen Portofolio Termutakhir
+
+=== Nama Layanan :
+
+=== Deskripsi Layanan
+
+=== Status Layanan :
+
+Berisi :
+
+. Pipeline layanan :
+.. Fase Pertimbangan : Proposed/Defined, Analyzed, Chartered
+.. Fase Pengembangan : Requirements Analyzed, Designed, Built, Tested, Released
+. Katalog layanan : Operational
+. Layanan yang tidak digunakan lagi : Retired
+
+=== Jenis Layanan 
+
+terdiri dari :
+
+. Kategori layanan : 
+.. Layanan untuk pelanggan
+.. Layanan pendukung / teknis
+. Sumber Pemberi Layanan :
+.. internal 
+.. eksternal
+
+=== Pengguna
+
+=== Kontak dan Prosedur untuk permintaan layanan
+
+=== Deskripsi hasil yang diharapkan 
+
+. justifikasi atau nilai tambah dari sudut pandang organisasi
+. proses bisnis yang didukung
+. hasil yang diharapkan terkait utilitas layanan
+. hasil yang diharapkan terkait jaminan layanan
+
+=== Ketergantungan terhadap layanan pendukung/teknis dan/atau _Component Item_ (CI)
+
+=== Referensi ke dokumen lainnya 
+
+seperti business case dan model layanan
+
+
+== _Business Case_
+
+=== Permasalahan
+
+=== Solusi 
+
+=== Pendekatan
+
+beberapa alternatif pendekatan untuk penerapan solusi seperti pilot project, big-bang, atau yang lain
+
+=== Kajian Risiko
+
+deskripsi risiko-risiko yang berpotensi terjadi untuk masing-masing alternatif pendekatan, termasuk informasi dampak risiko dan usulan mitigasinya
+
+=== Analisis Biaya dan Manfaat
+
+Analisis harus selaras dan mengikuti panduan dalam Kebijakan dan Standar Manajemen Keuangan Teknologi Informasi mengenai Analisis Biaya dan Manfaat
